@@ -7,10 +7,8 @@ Check functions-example.php for usage. You will need the following:
 
 This code in functions.php:
 
-[code]
-include_once( 'path/to/sld_shortcode_button.php' );
-new sld_shortcode_button( $namespace, $shortcode );
-[/code]
+	include_once( 'path/to/sld_shortcode_button.php' );
+	new sld_shortcode_button( $namespace, $shortcode );
 
 The following files:
 
