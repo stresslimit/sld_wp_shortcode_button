@@ -12,5 +12,5 @@ This code in functions.php:
 
 The following files:
 
-{yr_theme}/sld_shortcode_button/{yr_namespace}/{yr_namespace}.js	// the tinyMCE plugin javascript
-{yr_theme}/sld_shortcode_button/{yr_namespace}/button.png			// a simple button image
+	{yr_theme}/sld_shortcode_button/{yr_namespace}/{yr_namespace}.js	// the tinyMCE plugin javascript
+	{yr_theme}/sld_shortcode_button/{yr_namespace}/button.png			// a simple button image
